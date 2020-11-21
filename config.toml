@@ -38,7 +38,7 @@ canonifyurls = true
 [[params.social]]
   name = "Github"
   icon = "fa fa-github fa-2x"
-  weight = 1
+  weight = 2
   url = "https://github.com/aleixalcacer/"
 
 [[params.social]]
@@ -47,27 +47,21 @@ canonifyurls = true
   weight = 3
   url = "https://twitter.com/aleixalcacer/"
 
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 4
+  url = "https://linkedin.com/in/aleixalcacer/"
+
 
 # Menu links
 
-[languages]
-    [languages.en]
-        languageName = "English"
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "about/"
 
-        [languages.en.menu]
-
-          [[menu.main]]
-            name = "Blog"
-            weight = 2
-            url  = "posts/"
-
-          [[menu.main]]
-            name = "Projects"
-            weight = 3
-            url  = "projects/"
-
-          [[menu.main]]
-          name = "About"
-          weight = 5
-          url = "about/"
-          
+[[menu.main]]
+  name = "Blog"
+  weight = 2
+  url  = "posts/"
