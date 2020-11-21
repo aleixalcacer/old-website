@@ -4,6 +4,7 @@ theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 paginate = 20
+canonifyurls = true
 
 [params]
   author = "Aleix Alcacer"
@@ -49,12 +50,24 @@ paginate = 20
 
 # Menu links
 
-[[menu.main]]
-  name = "About"
-  weight = 1
-  url = "about/"
+[languages]
+    [languages.en]
+        languageName = "English"
 
-[[menu.main]]
-  name = "Blog"
-  weight = 1
-  url  = "posts/"
+        [languages.en.menu]
+
+          [[menu.main]]
+            name = "Blog"
+            weight = 2
+            url  = "posts/"
+
+          [[menu.main]]
+            name = "Projects"
+            weight = 3
+            url  = "projects/"
+
+          [[menu.main]]
+          name = "About"
+          weight = 5
+          url = "about/"
+          
