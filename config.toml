@@ -21,8 +21,8 @@ canonifyurls = true
 
   math = true
 
-  colorsheme = "auto"
-  hidecolorschemetoggle = false
+  colorsheme = "light"
+  hidecolorschemetoggle = true
 
 [taxonomies]
   category = "categories"
