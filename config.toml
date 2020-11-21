@@ -21,6 +21,9 @@ canonifyurls = true
 
   math = true
 
+  colorsheme = "auto"
+  hidecolorschemetoggle = false
+
 [taxonomies]
   category = "categories"
   series = "series"
