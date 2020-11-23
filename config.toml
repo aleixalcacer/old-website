@@ -8,7 +8,7 @@ canonifyurls = true
 
 [params]
   author = "Aleix Alcacer"
-  info = "Open Source Contributor | Software Analyst and Designer | PhD in Mathematics"
+  info = "Open Source Contributor | Software Analyst & Designer | PhD in Mathematics"
   description = "Aleix Alcacer's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
