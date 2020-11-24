@@ -1,4 +1,4 @@
-baseurl = "https://www.aleixalcacer.com/"
+baseurl = "https://aleixalcacer.github.io/hugo-portfolio/"
 title = "Aleix Alcacer"
 theme = "hugo-coder"
 languagecode = "en"
