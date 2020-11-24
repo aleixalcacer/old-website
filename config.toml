@@ -6,6 +6,7 @@ defaultcontentlanguage = "en"
 paginate = 20
 canonifyurls = true
 
+
 [params]
   author = "Aleix Alcacer"
   info = "Open Source Contributor | Software Analyst & Designer | PhD in Mathematics"
