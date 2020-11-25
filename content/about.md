@@ -46,7 +46,7 @@ TODO
 
 ### Articles
 
-- A. Alcacer, Irene Epifanio, M. Victoria Ibáñez, Amelia Simó, A. Ballester. *A data-driven classification of 3D foot types by archetypal shapes based on landmarks.* PLoS ONE, (2020). DOI: <https:/doi.org/10.1371/journal.pone.0228016>. 
+- A. Alcacer, Irene Epifanio, M. Victoria Ibáñez, Amelia Simó, A. Ballester. *A data-driven classification of 3D foot types by archetypal shapes based on landmarks.* PLoS ONE, (2020). DOI: [10.1371/journal.pone.0228016](https:/doi.org/10.1371/journal.pone.0228016). 
 
 ### International conferences
 
