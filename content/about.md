@@ -31,7 +31,7 @@ TODO
 
     I teach the second module of the SIQ025 and SIQ525 subjects included in the master's degree in Computational Mathematics.
 
-- **Research Technician**, 2018 - present
+- **Research technician**, 2018 - present
 
     I am part of the DPI2017-87333-R project of the Ministry of Science, Innovation and Universities of Spain. I am in charge of conducting tests and experiments and analyzing the results. I have also started researching in the field of archetypal analysis, publishing several articles and posters.
 
