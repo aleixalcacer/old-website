@@ -29,7 +29,7 @@ TODO
 
 - **External lecturer**, 2020 - present
 
-    I teach the second module of the SIQ025 / SIQ525 subjects of the master's degree in Computational Mathematics.
+    I teach the second module of the SIQ025 and SIQ525 subjects included in the master's degree in Computational Mathematics.
 
 - **Research Technician**, 2018 - present
 
