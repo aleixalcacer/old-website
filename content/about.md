@@ -16,25 +16,30 @@ TODO
 
 - **Bachelor's Degree in Computational Mathematics**, 2014 - 2018
     - Average grade: 8.57
+    - Award for Academic Excellence to second-year degree students
+    - Award for Academic Excellence to third-year degree students
+    - Award for Academic Excellence to fourth-year degree students
+    - Outstanding Graduate Achievement Award
+
 
 
 ## Experience
 
-### Jaume I University, Sapin
+### Jaume I University, Spain
 
 - **External lecturer**, 2020 - present
 
-    TODO
+    I teach the second module of the SIQ025 / SIQ525 subjects of the master's degree in Computational Mathematics.
 
 - **Research Technician**, 2018 - present
 
-    TODO
+    I am part of the DPI2017-87333-R project of the Ministry of Science, Innovation and Universities of Spain. I am in charge of conducting tests and experiments and analyzing the results. I have also started researching in the field of archetypal analysis, publishing several articles and posters.
 
 ### Francesc Alted, Spain
 
 - **Software analyst and designer**, 2018 - present
 
-    TODO
+    We are currently focusing on combining high performance algorithms and chunked data compression. I lead the Caterva project, an open source library that allows to store large multidimensional, chunked, compressed datasets. I am also part of the well known Blosc project, a high performance compressor specifically designed for binary data. Furthermore, I am one of the main developers of a new computational engine optimized for big-data applications called Iron Array.
 
 
 ## Academic publications
