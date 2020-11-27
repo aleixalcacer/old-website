@@ -2,11 +2,12 @@
 title = "About me"
 +++
 
-TODO
+TODO 
 
 ## Education
 
-### Jaume I University, Spain
+
+### Jaume I University
 
 - **Doctoral Programme in Mathematics**, 2020 - present
 
@@ -25,7 +26,8 @@ TODO
 
 ## Experience
 
-### Jaume I University, Spain
+
+### Jaume I University
 
 - **External lecturer**, 2020 - present
 
@@ -35,18 +37,22 @@ TODO
 
     I am part of the DPI2017-87333-R project of the Ministry of Science, Innovation and Universities of Spain. I am in charge of conducting tests and experiments and analyzing the results. I have also started researching in the field of archetypal analysis, publishing several articles and posters.
 
-### Francesc Alted, Spain
+
+### Francesc Alted
 
 - **Software analyst and designer**, 2018 - present
 
     We are currently focusing on combining high performance algorithms and chunked data compression. I lead the Caterva project, an open source library that allows to store large multidimensional, chunked, compressed datasets. I am also part of the well known Blosc project, a high performance compressor specifically designed for binary data. Furthermore, I am one of the main developers of a new computational engine optimized for big-data applications called Iron Array.
 
 
+
 ## Academic publications
+
 
 ### Articles
 
 - A. Alcacer, Irene Epifanio, M. Victoria Ibáñez, Amelia Simó, A. Ballester. *A data-driven classification of 3D foot types by archetypal shapes based on landmarks.* PLoS ONE, (2020). DOI: [10.1371/journal.pone.0228016](https:/doi.org/10.1371/journal.pone.0228016). 
+
 
 ### International conferences
 
@@ -57,6 +63,7 @@ TODO
 - A. Alcacer, Irene Epifanio, M. Victoria Ibáñez, Amelia Simó. *Archetypal contour functions.* 12th Scientific Meeting Classification and Data Analysis Group, CLADAG (2019). ISBN: 978-88-8317-108-6
 
 - A. Alcacer, Irene Epifanio, M. Victoria Ibáñez, Amelia Simó. *Analysis of 2D foot morphology by functional archetypal analysis.* XVII CONFERENCIA ESPAÑOLA DE BIOMETRÍA and VII ENCUENTRO IBEROAMERICANO DE BIOMETRÍA (2019). ISBN: 978-84-09-11706-2
+
 
 ### National conferences
 
