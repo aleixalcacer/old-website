@@ -12,7 +12,7 @@ canonifyurls = true
   info = "Open Source Contributor | Software Analyst & Designer | PhD in Mathematics"
   description = "Aleix Alcacer's personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  avatarurl = "images/avatar.jpeg"
 
   footercontent = ""
   hideFooter = false
