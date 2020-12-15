@@ -67,6 +67,6 @@ TODO
 
 ### National conferences
 
-- A. Alcacer, Irene Epifanio. *Analysis of gene expression data using biarchetype analysis*. V Jornadas de Jovenes de la Sociedad Española de Bioestadística, VJSEB (2021).
+- A. Alcacer, Irene Epifanio. *Analysis of gene expression data using biarchetype analysis*. V Jornadas Científicas de Estudiantes de la Sociedad Española de Bioestadística, VJSEB (2021).
 
 - A. Alcacer, Irene Epifanio, M. Victoria Ibáñez, Amelia Simó, A. Ballester. *A data-driven classification of 3D foot types by archetypal shapes based on landmarks.* V Congreso de Jóvenes Investigadores de la RSME (2020).  
