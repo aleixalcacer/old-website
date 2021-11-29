@@ -44,12 +44,12 @@ name = "Blog"
 title = "Blog"
 url = "/blog/"
 
-# [[menu.main]]
-# weight = 3
-# identifier = "speaking"
-# name = "speaking"
-# title = "Speaking"
-# url = "/talks/"
+[[menu.main]]
+weight = 3
+identifier = "resume"
+name = "Resume"
+title = "Resume"
+url = "/resume/"
 
 # [[menu.main]]
 # weight = 4
