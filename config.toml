@@ -1,71 +1,62 @@
-baseurl = "https://www.aleixalcacer.com/"
+baseURL = "https://www.aleixalcacer.com"
 title = "Aleix Alcacer"
-theme = "hugo-coder"
-languagecode = "en"
-defaultcontentlanguage = "en"
-paginate = 20
-canonifyurls = true
+theme = "PaperMod"
 
+[frontmatter]
+date = [":filename", ":default"]
+publishDate = [":filename", ":default"]
+
+[permalinks]
+posts = "posts/:year/:month/:day/:slug/"
 
 [params]
-  author = "Aleix Alcacer"
-  info = "Open Source Contributor | Software Analyst & Designer | PhD in Mathematics"
-  description = "Aleix Alcacer's personal website"
-  keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpeg"
+mathjax = true
+showReadingTime = true
 
-  footercontent = ""
-  hideFooter = false
-  hideCredits = false
-  hideCopyright = false
-  since = 2020
-
-  math = true
-
-  colorsheme = "light"
-  hidecolorschemetoggle = true
-
-[taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
-  author = "authors"
-  
-# Social links
-
-[[params.social]]
-  name = "Mail"
-  icon = "fa fa-envelope fa-2x"
-  weight = 1
-  url = "mailto:aleixalcacer@gmail.com"
-
-[[params.social]]
-  name = "Github"
-  icon = "fa fa-github fa-2x"
-  weight = 2
-  url = "https://github.com/aleixalcacer/"
-
-[[params.social]]
-  name = "Twitter"
-  icon = "fa fa-twitter fa-2x"
-  weight = 3
-  url = "https://twitter.com/aleixalcacer/"
-
-[[params.social]]
-  name = "LinkedIn"
-  icon = "fa fa-linkedin fa-2x"
-  weight = 4
-  url = "https://linkedin.com/in/aleixalcacer/"
+# Shown on the home page
+socialIcons = [
+  { name = "email", url = "mailto:aleixalcacer@gmail.com" },
+  { name = "github", url = "https://github.com/aleixalcacer" },
+  { name = "twitter", url = "https://twitter.com/aleixalcacer" },
+  { name = "stackoverflow", url = "https://stackoverflow.com/users/14079719"},
+  { name = "linkedin", url = "https://www.linkedin.com/aleixalcacer/" },
+]
 
 
-# Menu links
+# Configure the home page
+[params.profileMode]
+enabled = true
+title = "Hi, I'm Aleix Alcacer."
+subtitle = ""
+
+# Site-wide navigation
+[[menu.main]]
+weight = 1
+identifier = "about"
+name = "About"
+title = "About"
+url = "/about/"
 
 [[menu.main]]
-  name = "About"
-  weight = 1
-  url = "about/"
+weight = 2
+identifier = "blog"
+name = "Blog"
+title = "Blog"
+url = "/blog/"
 
 # [[menu.main]]
-#   name = "Blog"
-#   weight = 2
-#   url  = "posts/"
+# weight = 3
+# identifier = "speaking"
+# name = "speaking"
+# title = "Speaking"
+# url = "/talks/"
+
+# [[menu.main]]
+# weight = 4
+# identifier = "other stuff"
+# name = "other stuff"
+# title = "Other stuff"
+# url = "/stuff/"
+
+[markup.goldmark.renderer]
+unsafe = true
