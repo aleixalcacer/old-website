@@ -26,6 +26,7 @@ socialIcons = [
 # Configure the home page
 [params.profileMode]
 enabled = true
+imageurl = "/avatar.jpeg"
 title = "Hi, I'm Aleix Alcacer."
 subtitle = ""
 
