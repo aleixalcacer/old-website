@@ -4,7 +4,7 @@ summary: "A quick introduction to Archetypal Analysis in Python."
 tags: []
 ---
 
-In progress...
+{{< cite "Cutler1994">}}
 
 ## Archetype Analysis (AA)
 
@@ -71,3 +71,6 @@ for $g = 1, \ldots, k $.
 4. $\sum_{r=1}^m \theta_{rh} = 1$ with $\theta_{rh} \geq 0$
 for $h = 1, \ldots, c $.
 
+## References
+
+{{< bibliography cited >}}

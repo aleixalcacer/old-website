@@ -1,0 +1,27 @@
+[
+  {
+    "author": [
+      {
+        "family": "Cutler",
+        "given": "Adele"
+      },
+      {
+        "family": "Breiman",
+        "given": "Leo"
+      }
+    ],
+    "container-title": "Technometrics",
+    "id": "Cutler1994",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "page": "338-347",
+    "title": "Archetypal Analysis",
+    "type": "article-journal",
+    "volume": "36"
+  }
+]

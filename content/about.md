@@ -6,7 +6,7 @@ showReadingTime: false
 
 Hi folks!
 
-I am Aleix Alcacer, a software analyst that loves the open-source world. I like to develop new algorithms to improve both the performance and efficiency of projects.
+I am Aleix Alcacer, a software analyst that loves the open-source world. I like to develop new algorithms to improve both the performance and efficiency of projects. {{< cite "Esposito2012" >}}
 
 Currently, I am doing a PhD in mathematics at University Jaume I (Spain). Also, I am being part of the Blosc Development Team.
 
