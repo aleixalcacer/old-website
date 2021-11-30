@@ -59,7 +59,7 @@ We developed a new computational engine optimized for big-data applications.
 : Blosc is a high performance compressor optimized for binary data.
 
 [caterva](https://github.com/Blosc/Caterva) *lead maintainer <br> 2018 - present*
-: Caterva is a multidimensional data container on top of Blosc2.
+: Caterva is a multidimensional data container specially designed to deal with large multidimensional, chunked, compressed datasets.
 
 [memprofiler](https://github.com/aleixalcacer/memprofiler) *creator <br> 2020 - present*
 : Memprofiler is a IPython extension for monitoring memory usage of Jupyter notebook cells.
