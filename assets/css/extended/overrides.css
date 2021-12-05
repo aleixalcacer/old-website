@@ -4,7 +4,9 @@
     --entry: var(--theme);
     /* Spacing */
     --content-gap: 1rem;
-  }
+    --radius: 0rem;
+    --hljs-bg: rgb(245, 245, 245);
+}
   
   /* Make all pages look the same */
   .list {
@@ -78,4 +80,7 @@
   
     color: var(--secondary);
   }
-  
+
+.post-content pre code {
+  color: unset;
+}

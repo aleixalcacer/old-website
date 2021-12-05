@@ -1,6 +1,7 @@
 baseURL = "https://www.aleixalcacer.com"
 title = "Aleix Alcacer"
 theme = "PaperMod"
+pygmentsUseClasses = true
 
 [frontmatter]
 date = [":filename", ":default"]
@@ -22,6 +23,9 @@ socialIcons = [
   { name = "linkedin", url = "https://www.linkedin.com/aleixalcacer/" },
 ]
 
+# Disable Highlight JS
+[params.assets]
+disableHLJS = true
 
 # Configure the home page
 [params.profileMode]
@@ -58,6 +62,3 @@ url = "/resume/"
 # name = "other stuff"
 # title = "Other stuff"
 # url = "/stuff/"
-
-[markup.goldmark.renderer]
-unsafe = true
