@@ -12,11 +12,11 @@ The goal is to find a matrix $Z$ of $k$ $m$-dimensional archetypes.
 For that, AA computes two matrices $\alpha$ and $\beta$ which minimize the
 residual squares sum</p><p>under the constraints</p><ol><li>$\sum_{j=1}^k \alpha_{ij} = 1$ with $\alpha_{ij} \geq 0$
 for $i = 1, \ldots, n $.</li><li>$\sum_{l=1}^n \beta_{jl} = 1$ with $\beta_{jl} \geq 0$
-for $j = 1, \ldots, k $.</li></ol><div class=highlight><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-Python data-lang=Python><span style=color:#f92672>import</span> archetypes <span style=color:#f92672>as</span> arch
+for $j = 1, \ldots, k $.</li></ol><div class=highlight><pre class=chroma><code class=language-Python data-lang=Python><span class=kn>import</span> <span class=nn>archetypes</span> <span class=kn>as</span> <span class=nn>arch</span>
 
 
-aa <span style=color:#f92672>=</span> arch<span style=color:#f92672>.</span>AA(n_archetypes<span style=color:#f92672>=</span><span style=color:#ae81ff>5</span>)
-aa<span style=color:#f92672>.</span>fit(X)
+<span class=n>aa</span> <span class=o>=</span> <span class=n>arch</span><span class=o>.</span><span class=n>AA</span><span class=p>(</span><span class=n>n_archetypes</span><span class=o>=</span><span class=mi>5</span><span class=p>)</span>
+<span class=n>aa</span><span class=o>.</span><span class=n>fit</span><span class=p>(</span><span class=n>X</span><span class=p>)</span>
 
 </code></pre></div><h2 id=bi-archetype-analysis-biaa>Bi-Archetype Analysis (BiAA)<a hidden class=anchor aria-hidden=true href=#bi-archetype-analysis-biaa>#</a></h2><p>Let $X$ be a $n \times m$ matrix with $n$ observations and
 $m$ variables.
