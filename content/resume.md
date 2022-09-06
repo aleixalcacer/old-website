@@ -2,7 +2,7 @@
 title: "Resume"
 layout: single
 showReadingTime: false
-modified: 2021-11-28
+modified: 2022-09-06
 ---
 
 ## Educational background
@@ -85,6 +85,14 @@ We developed a new computational engine optimized for big-data applications.
 
 
 ### International Conferences
+
+-   A. Alcacer, I. Epifanio
+    *Discovering archetypal football teams and stats with biarchetype analysis.*
+    useR! (2022).
+
+-   A. Alcacer, I. Epifanio, J. Valero, A. Ballester.
+    *Combining user-based collaborative filtering and classification for matching footwear size.*
+    CMStatistics (2021).
 
 -   A. Alcacer, I. Epifanio.
     *Biarchetype analysis: definition and application to sports analysis.*
